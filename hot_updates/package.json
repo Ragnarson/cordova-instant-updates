@@ -1,0 +1,6 @@
+{
+  "name": "cordova-hot-updates",
+  "devDependencies": {
+    "ionic": "^1.7.4"
+  }
+}
